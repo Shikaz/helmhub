@@ -3,7 +3,7 @@ entries:
   jenkins:
   - apiVersion: v1
     appVersion: lts
-    created: "2021-12-03T06:50:54.852240892Z"
+    created: "2021-12-03T07:16:34.645286022Z"
     deprecated: true
     description: DEPRECATED - Open source continuous integration server. It supports
       multiple SCM tools including CVS, Subversion and Git. It can execute Apache
@@ -18,6 +18,6 @@ entries:
     - https://github.com/maorfr/kube-tasks
     - https://github.com/jenkinsci/configuration-as-code-plugin
     urls:
-    - jenkins-2.5.4.tgz
+    - https://shikaz.github.io/helmhub/jenkins-2.5.4.tgz
     version: 2.5.4
-generated: "2021-12-03T06:50:54.84850219Z"
+generated: "2021-12-03T07:16:34.641299038Z"
